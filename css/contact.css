@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Inconsolata|Share+Tech+Mono&display=swap');
+
+.contact-main {
+    height: 500px;
+    width: 100%;
+    border:solid 5px #018ec2;
+}
+.contact-section{
+    height: 520px;
+    float:left;
+    width:48%;
+    display:block;
+    margin:auto;
+    margin-top:105px;
+    border:solid 5px #018ec2;
+}

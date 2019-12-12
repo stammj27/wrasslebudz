@@ -1,0 +1,142 @@
+@import url('https://fonts.googleapis.com/css?family=Inconsolata|Share+Tech+Mono&display=swap');
+body {
+    margin:0 auto;
+    width:100%;
+    background-color: #000000
+}
+.nav-bar {
+    background-color:rgba( 1,142,194,.5);
+    height:100px;
+    width: 100%;
+    position: fixed;
+    top:0px;
+    z-index: 1
+}
+.logo {
+    height:115px;
+    width:115px;
+}
+.nav-list {
+    float:right;
+    margin:20px;
+}
+
+.list-item {
+    text-align:center;
+    height:38px;
+    width:100px;
+    margin:0px;
+    padding:5px;
+    color: #018ec2;
+    background-color:#000000;
+    font-size: 30px;
+    display:inline-block;
+    border:3px solid #018ec2;
+    border-radius:10px;
+    font-family: Impact, Charcoal, sans-serif;
+}
+li:hover {
+    color:#ef5824;
+    background-color: #000000;
+    border-color:#018ec2;
+}
+.hero {
+    display:block;
+    margin:auto;
+    width: 100%;
+}
+.main-text {
+    height: 75px;
+    width: 445px;
+    border: 5px solid #018ec2;
+    border-radius: 10px;
+    background-color: #000000;
+    position: absolute;
+    margin: 105px 33%
+}
+h1 {
+    width: 442px;
+    text-align: center;
+    margin:0px;
+    color:#018ec2;
+    font-size: 72px;
+    font-family: Impact, Charcoal, sans-serif;
+    margin-top:-5px;
+    text-shadow: #ef5824 3px 3px;
+}
+.home-section{
+    height: 430px;
+    width:100%;
+}
+.col {
+    height: 410px;
+    width:48%;
+    border: 5px solid #018ec2;
+    float: left;
+    margin: 8px;
+}
+.scotty {
+    width:100%;
+    margin-top: 5px;
+}
+.sec-text p {
+    text-align: center;
+    margin: 5px;
+    color:#018ec2;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+.main {
+    background-image:url('../img/hero.jpg');
+    background-position: 0px 100px;
+    width:100%;
+    height:545px;
+    background-repeat: no-repeat;
+}
+/* Footer Styles */
+.footer {
+    display: inline-block;
+    height: 100px;
+    width: 100%;
+    background-color:#000000;
+    margin-top: 100px;
+    border-top: 5px solid #018ec2;
+    clear: both;
+
+}
+.copy, .social-media {
+    margin-top: 43px;
+}
+.button-input {
+    margin-top: 55px;
+}
+.footcol {
+    float: left;
+    width: 33%;
+    text-align: center;
+}
+button {
+    height: 22px;
+    width:60px;
+    border-radius:5px;
+    color: #018ec2;
+    background-color: #000000;
+    border-color: #ef5824;
+
+}
+input {
+    height:16px;
+    width:200px;
+}
+.copy p {
+   color: #018ec2;
+   font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+.icon {
+    color: #018ec2;
+    width: 45px;
+    font-size: 3em;
+    margin-left:30px;
+}
+.icon:hover {
+    color: #ef5824;
+}

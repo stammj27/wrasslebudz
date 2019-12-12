@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css?family=Inconsolata|Share+Tech+Mono&display=swap');
+
+.about-main {
+    margin-top:105px;
+    height: 800px;
+    width: 100%;
+}
+.about-section {
+    
+    height: 700px;
+    width:31%;
+    float:left;
+    border: 5px solid #018ec2;
+    margin-left: 15px
+}
+.about-img {
+    width: 100%
+}
+.about-section p {
+    margin: 29px;
+    color:#FFFFFF;
+    font-family: 'Inconsolata', monospace;
+    font-size: 24px;
+    padding: 5px;
+}
+.about-audio {
+    display: block;
+    margin: 10px auto;
+}
+.about-section iframe {
+    display: block;
+    margin: auto;
+    margin-top: 20px;
+}
+.abt-video {
+    margin-top: 20px;
+}
+iframe {
+    margin-top:20px
+}
