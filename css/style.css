@@ -27,18 +27,18 @@ body {
     width:100px;
     margin:0px;
     padding:5px;
-    color: #018ec2;
+    color: #a53c77;
     background-color:#000000;
     font-size: 30px;
     display:inline-block;
-    border:3px solid #018ec2;
+    border:3px solid #a53c77;
     border-radius:10px;
     font-family: Impact, Charcoal, sans-serif;
 }
 li:hover {
     color:#ef5824;
     background-color: #000000;
-    border-color:#018ec2;
+    border-color:#a53c77;
 }
 .hero {
     display:block;
@@ -48,7 +48,7 @@ li:hover {
 .main-text {
     height: 75px;
     width: 445px;
-    border: 5px solid #018ec2;
+    border: 5px solid #a53c77;
     border-radius: 10px;
     background-color: #000000;
     position: absolute;
@@ -58,7 +58,7 @@ h1 {
     width: 442px;
     text-align: center;
     margin:0px;
-    color:#018ec2;
+    color:#a53c77;
     font-size: 72px;
     font-family: Impact, Charcoal, sans-serif;
     margin-top:-5px;
@@ -71,7 +71,7 @@ h1 {
 .col {
     height: 410px;
     width:48%;
-    border: 5px solid #018ec2;
+    border: 5px solid #a53c77;
     float: left;
     margin: 8px;
 }
@@ -82,7 +82,7 @@ h1 {
 .sec-text p {
     text-align: center;
     margin: 5px;
-    color:#018ec2;
+    color:#a53c77;
     font-family: "Trebuchet MS", Helvetica, sans-serif;
 }
 .main {
@@ -99,7 +99,7 @@ h1 {
     width: 100%;
     background-color:#000000;
     margin-top: 100px;
-    border-top: 5px solid #018ec2;
+    border-top: 5px solid #a53c77;
     clear: both;
 
 }
@@ -118,7 +118,7 @@ button {
     height: 22px;
     width:60px;
     border-radius:5px;
-    color: #018ec2;
+    color: #a53c77;
     background-color: #000000;
     border-color: #ef5824;
 
@@ -128,11 +128,11 @@ input {
     width:200px;
 }
 .copy p {
-   color: #018ec2;
+   color: #a53c77;
    font-family: "Trebuchet MS", Helvetica, sans-serif;
 }
 .icon {
-    color: #018ec2;
+    color: #a53c77;
     width: 45px;
     font-size: 3em;
     margin-left:30px;
